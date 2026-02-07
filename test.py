@@ -18,6 +18,7 @@ def program():
     pathlib.Path("apis").mkdir()
     pathlib.Path("docs").mkdir()
     pathlib.Path("bin").mkdir()
+    pathlib.Path("src").mkdir()
 
     # I have the folders now what?
 

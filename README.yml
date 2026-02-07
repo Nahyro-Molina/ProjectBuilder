@@ -1,14 +1,11 @@
-#### TODO ####
-- LEARN YAML TO CONVERT THIS FILE ALL TO YAML!!!
-
 #### Project Building GuideBook ####
-Day 1:
-    Step 1: Build the test script
-        - This is a base script to get the minimal viable product before considering external factors
-        - Factors of the Project:
-            - Structure or Design
-            - Performance or Memory
-            - Usage or Purpose
-            ...
-        - DON'T MOVE TO THE NEXT STEPS UNTIL WHAT ABOVE IS COMPLETE!!!
 
+build_test_script:
+    description: 
+        "This is a base script to get the minimal viable product before considering external factors"
+    factors of the Project:
+        - "Structure or Design"
+        - "Performance or Memory"
+        - "Usage or Purpose"
+    notes:
+        "DON'T MOVE TO THE NEXT STEPS UNTIL WHAT ABOVE IS COMPLETE!!!"
