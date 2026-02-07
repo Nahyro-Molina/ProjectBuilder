@@ -1,0 +1,6 @@
+# Purpose:
+    # No clue what this file will consist of but for now I know this is what will determine the sub-directories of the project requested
+
+# TODO:
+    # Have this file be read by one of the source files to determine what directories get created
+    # Have a source file parser this file and provide a way to manipulate this file in code (Better wording needed)
