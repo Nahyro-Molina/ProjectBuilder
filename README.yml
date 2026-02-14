@@ -9,3 +9,12 @@ build_test_script:
         - "Usage or Purpose"
     notes:
         "DON'T MOVE TO THE NEXT STEPS UNTIL WHAT ABOVE IS COMPLETE!!!"
+
+todos:
+    implement_cli:
+        - create_simple_cli_tool
+            - Config cli interface
+            - Execute <build_test_script> functionalities (MVP)
+        - build_on_simple_cli_tool
+            - Implement subcommands
+            - Organize and group commands by class
